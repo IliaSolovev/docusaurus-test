@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'Привет,Ромка, я умная машина. Я собралась сама))) КЕК',
+  title: 'Docusaurus test deploy',
+  tagline: 'Docusaurus test new version',
   url: 'https://IliaSolovev.io',
   baseUrl: '/docusaurus-test/',
   onBrokenLinks: 'throw',
